@@ -105,7 +105,7 @@ function formatDatabaseResponse(results) {
 
 // Function to query the OpenAI API
 async function queryOpenAI(userInput, databaseResponse) {
-  const openAIApiKey = "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";
+  const openAIApiKey = "Open AI Key";
   const apiUrl = "https://api.openai.com/v1/chat/completions";
 
   try {
