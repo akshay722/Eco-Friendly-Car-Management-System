@@ -33,7 +33,8 @@ The web application is built using React. Axios is employed for making asynchron
 •	The server will run on http://localhost:5001.
 
 
-## Testing: Test the application by interacting with the chatbot and exploring table data. Due to budgetary constraints, the chatbot gets data from only the car table. Queries related to car table can be given and the chatbot retrieves information about the car table.
+## Testing: 
+Test the application by interacting with the chatbot and exploring table data. Due to budgetary constraints, the chatbot gets data from only the car table. Queries related to car table can be given and the chatbot retrieves information about the car table.
 
 ## Constraints and Considerations:
 •	The chatbot's interaction with the database is mindful of the usage-based pricing model of the OpenAI GPT-3.5 Turbo model.
